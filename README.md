@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usermeh&label=Profile%20views&color=0e75b6&style=flat" alt="usermeh" /> </p>
 
-- My LinkedIn [https://www.linkedin.com/in/simzhang/](https://www.linkedin.com/in/simzhang/)
-
 - My email **szhang0709@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
