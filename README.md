@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon ZHANG</h1>
 <h3 align="center">Student in ESGI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usermeh&label=Profile%20views&color=0e75b6&style=flat" alt="usermeh" /> </p>
-
 - My email **szhang0709@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
