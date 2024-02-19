@@ -13,9 +13,9 @@ jobs:
             
             # Setup python
           - name: setup python
-            uses: actions/setup-python@v4
+            uses: actions/setup-python@v5
             with:
-                python-version: '3.9' 
+                python-version: '3.9'
         
             # Upgrade pip
           - name: Upgrade Pip
@@ -39,7 +39,7 @@ jobs:
             
             # Push changes to current repo
           - name: push changes
-            uses: ad-m/github-push-action@v0.6.0
+            uses: ad-m/github-push-action@v0.8.0
             with:
                 github_token: ${{ secrets.GITHUB_TOKEN }}
                 branch: main 
