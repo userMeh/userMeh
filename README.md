@@ -14,6 +14,8 @@
   `PHP` | `Javascript` | `Python` | `Java` | `C` | `React` | `SQL` | `Typescript` | `Docker` | `Xamarin`
 </h3>
 
+<!---LOL-STATS-START-HERE--->
+<!---LOL-STATS-END-HERE--->
 ____
 
 <div align="center">

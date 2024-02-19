@@ -1,0 +1,23 @@
+{
+    "Summoner Name": "Zernor",
+    "Matches": 10,
+    "Target File": "README.md",
+    "Toggle Credit": 1,
+    "Skin Substitutions": {
+        "Aatrox": "Prestige Blood Moon Aatrox"
+    },
+    "Extra Info": {
+        "Seconds of CC": 1,
+        "Display Rank": 1,
+        "Main Lane": 1,
+        "Ability Count": 1,
+        "Solokills": 1,
+        "Takedowns": 1,
+        "Mastery": 1,
+        "K/D/A": 1,
+        "Pentakills": 1,
+        "Quadrakills": 1,
+        "Triplekills": 1,
+        "Doublekills": 1
+    }
+} 
