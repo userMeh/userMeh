@@ -15,6 +15,19 @@
 </h3>
 
 <!---LOL-STATS-START-HERE--->
+<h3 align='center'> Data from Last 10 Matches for Zernor</h3><table align='center'><tr></tr>
+<tr align='left'><th><pre>Top 2 Recently Played Champions
+-------------------------
+<img src='readme-lol-items/loading_Aatrox.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Darius.gif' alt='drawing' width='400'/>
+-------------------------
+<img align='center' src='readme-lol-items/extra_info.gif' alt='drawing' width='350'/></pre></th><th><pre>Top 3 Champion Masteries
+------------------------
+<img align='center' src='readme-lol-items/mastery.gif' alt='drawing' width='320'/> </pre></th></tr></table>
+<h6 align='center'>
+
+[README Profile LoL Stats](https://github.com/marketplace/actions/readme-profile-lol-stats) by [rithikasiilva](https://github.com/rithikasilva)
+</h6>
 <!---LOL-STATS-END-HERE--->
 ____
 
