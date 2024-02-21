@@ -14,6 +14,13 @@
   `PHP` | `Javascript` | `Python` | `Java` | `C` | `React` | `SQL` | `Typescript` | `Docker` | `Xamarin`
 </h3>
 
+<div align="center">
+  <p><img align="" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=usermeh&show_icons=true&locale=en&layout=compact&theme=dark" alt="usermeh" /></p>
+  <p><img align="" width="400em" src="https://github-readme-stats.vercel.app/api?username=usermeh&show_icons=true&locale=en&theme=dark" alt="usermeh" /></p>
+</div>
+
+____
+
 <!---LOL-STATS-START-HERE--->
 <h3 align='center'> Data from Last 10 Matches for Zernor</h3><table align='center'><tr></tr>
 <tr align='left'><th><pre>Top 2 Recently Played Champions
@@ -26,13 +33,5 @@
 <img align='center' src='readme-lol-items/mastery.gif' alt='drawing' width='320'/> </pre></th></tr></table>
 <h6 align='center'>
 
-[README Profile LoL Stats](https://github.com/marketplace/actions/readme-profile-lol-stats) by [rithikasiilva](https://github.com/rithikasilva)
 </h6>
 <!---LOL-STATS-END-HERE--->
-____
-
-<div align="center">
-  <p><img align="" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=usermeh&show_icons=true&locale=en&layout=compact&theme=dark" alt="usermeh" /></p>
-  <p><img align="" width="400em" src="https://github-readme-stats.vercel.app/api?username=usermeh&show_icons=true&locale=en&theme=dark" alt="usermeh" /></p>
-</div>
-
