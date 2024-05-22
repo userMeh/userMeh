@@ -20,10 +20,10 @@
 </div>
 
 ____
-
+<h3 align='center'>Useless data here</h3>
 <!---LOL-STATS-START-HERE--->
-<h3 align='center'> Data from Last 10 Matches for Zernor</h3><table align='center'><tr></tr>
-<tr align='left'><th><pre>Top 2 Recently Played Champions
+<h3 align='center'>I am addicted to LoL</h3><table align='center'><tr></tr>
+<tr align='left'><th><pre>Recently played champions
 -------------------------
 <img src='readme-lol-items/loading_Aatrox.gif' alt='drawing' width='400'/>
 <img src='readme-lol-items/loading_Darius.gif' alt='drawing' width='400'/>
